@@ -1,2 +1,11 @@
 ---
 # vars file for myapache
+p: 
+  - "httpd"
+  - "php"
+  - "nginx"
+  - "openssh"
+  - "mongodb"
+  - "jenkins"
+  - "terraform"
+  - "docker"

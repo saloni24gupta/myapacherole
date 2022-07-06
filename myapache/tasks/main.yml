@@ -1,2 +1,5 @@
 ---
 # tasks file for myapache
+- package:
+    name: "{{ p}}"
+    state: present
